@@ -1,4 +1,4 @@
-# Come Up with a Topic
+# Come up with a topic
 Decide on what types of messages you want your program to output.
 
 Think about what kinds of messages you’d like your program to output. Is it a horoscope generator? A fortune teller? An inspiring phrase? Knock-knock jokes? Here’s an example of what the output of a horoscope generator could look like:
